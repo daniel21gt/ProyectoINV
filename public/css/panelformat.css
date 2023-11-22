@@ -1,0 +1,23 @@
+DIV.centro 
+{
+	min-height: 5em;
+	display: table;
+	width:50%;
+}
+
+#tabla{
+    margin: auto;
+    min-height: 5em;
+	display: table;
+	width:50%;
+    
+}
+
+#celda{
+
+text-align: center; width: 100%;
+display: table-cell;
+vertical-align: middle;
+
+}
+
